@@ -7,11 +7,18 @@ import java.util.HashMap;
 
 import javax.imageio.ImageIO;
 
-import Utils.ConstString;
+import utils.ConstString;
 import com.google.zxing.*;
 import com.google.zxing.client.j2se.BufferedImageLuminanceSource;
 import com.google.zxing.common.HybridBinarizer;
 
+/**
+ * @ClassName TestRead
+ * @Description TODO ¶þÎ¬ÂëÍ¼Æ¬µÄ½âÎö
+ * @Author yinyicao
+ * @DateTime 2019/1/8 09:11
+ * @Blog http://www.cnblogs.com/hyyq/
+ */
 public class TestRead {
 	public static void main(String[] args) {
 		try {
